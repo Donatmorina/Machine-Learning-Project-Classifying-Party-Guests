@@ -1,4 +1,4 @@
-Party Guest Classifier
+Party Guest Classifier.
 This project uses machine learning algorithms to classify UiB students as either "ok" or "not ok" party guests based on categorical features such as gender, age, faculty, hobbies, music preferences, and whether they dance at parties.
 
 Algorithms Used:
